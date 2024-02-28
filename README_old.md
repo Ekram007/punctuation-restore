@@ -20,6 +20,7 @@ dependencies can be installed with the following command
 
 ```bash
 pip install -r requirements.txt
+
 ```
 
 ## Training
